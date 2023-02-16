@@ -1,4 +1,5 @@
-# Requisito 1: Número de estudantes estudando no mesmo horário (Algoritmo de busca)
+# Requisito 1: Número de estudantes estudando
+# no mesmo horário (Algoritmo de busca)
 
 def study_schedule(permanence_period, target_time):
     numero_estudantes = 0
